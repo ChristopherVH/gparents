@@ -9,8 +9,8 @@ class App extends Component {
     this.state={
       images : [
        {
-         original: 'http://res.cloudinary.com/dzmavimlg/image/upload/v1485315916/DSC02376_v8spdq.jpg',
-         thumbnail: 'http://res.cloudinary.com/dzmavimlg/image/upload/v1485315916/DSC02376_v8spdq.jpg'
+         original: 'http://res.cloudinary.com/dzmavimlg/image/upload/q_auto:good/v1485315916/DSC02376_v8spdq.jpg',
+         thumbnail: 'http://res.cloudinary.com/dzmavimlg/image/upload/q_auto:good/v1485315916/DSC02376_v8spdq.jpg'
        }
      ]
    }
